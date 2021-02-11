@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+### University Projects
 
-You can use the [editor on GitHub](https://github.com/jsl2/jsl2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Master Thesis - FPGA implementation of QPSK transceiver
+Digital radio with 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## VHDL Bomberman Game
 
-### Markdown
+## Verilog BLDC Motor Controller
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Bachelor Thesis - Connected Health
 
-```markdown
-Syntax highlighted code block
+## Software Defined Radio
+OFDM implementation NI USRP in LabVIEW
+Viterbi coder C plugin for LabVIEW
 
-# Header 1
-## Header 2
-### Header 3
+## OFDM Audio Modem
+Transmit image over audio channel
+OFDM
+Channel modelling...
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Extra-Curricular Projects
 
-**Bold** and _Italic_ and `Code` text
+## Hackathon News4future web dev voice activated + link
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsl2/jsl2.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## HackBordeaux - Elegant, Raspberry pi zero in glove + sensor
+Bluetooth mouse emulation
