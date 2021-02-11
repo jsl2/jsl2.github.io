@@ -1,27 +1,27 @@
-### University Projects
+## University Projects
 
-## Master Thesis - FPGA implementation of QPSK transceiver
-Digital radio with 
+### Master Thesis - FPGA implementation of QPSK transceiver
+Digital radio from
 
-## VHDL Bomberman Game
+### VHDL Bomberman Game
 
-## Verilog BLDC Motor Controller
+### Verilog BLDC Motor Controller
 
-## Bachelor Thesis - Connected Health
+### Bachelor Thesis - Connected Health
 
-## Software Defined Radio
+### Software Defined Radio
 OFDM implementation NI USRP in LabVIEW
 Viterbi coder C plugin for LabVIEW
 
-## OFDM Audio Modem
+### OFDM Audio Modem
 Transmit image over audio channel
 OFDM
 Channel modelling...
 
 
-### Extra-Curricular Projects
+## Extra-Curricular Projects
 
-## Hackathon News4future web dev voice activated + link
+### Hackathon News4future web dev voice activated + link
 
-## HackBordeaux - Elegant, Raspberry pi zero in glove + sensor
+### HackBordeaux - Elegant, Raspberry pi zero in glove + sensor
 Bluetooth mouse emulation
