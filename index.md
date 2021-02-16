@@ -1,8 +1,9 @@
 ## University Projects
 
-### Master Thesis - FPGA implementation of QPSK transceiver
-Digital radio from
-
+### Master Thesis - FPGA implementation of a QPSK transceiver
+Digital radio for audio streaming on ZedBoard Zynq-7000 with AD-FMCOMMS1-EBZ evaluation board as analog front end. Built using System Generator for DSP in MATLAB Simulink. Explored digital modulation schemes, carrier recovery, System Generator hardware considerations, UI for streaming IQ data to MATLAB from ZedBoard and scrambling & descrambling.
+![Image](hardware_thesis.PNG)
+![Image](IQ_UI.PNG)
 ### VHDL Bomberman Game
 
 ### Verilog BLDC Motor Controller
