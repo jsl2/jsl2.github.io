@@ -4,9 +4,11 @@
 Digital radio for audio streaming on ZedBoard Zynq-7000 with AD-FMCOMMS1-EBZ evaluation board as analog front end. Built using System Generator for DSP in MATLAB Simulink. Explored digital modulation schemes, carrier recovery, System Generator hardware considerations, UI for streaming IQ data to MATLAB from ZedBoard and scrambling & descrambling.
 ![Image](hardware_thesis.PNG)
 ![Image](IQ_UI.PNG)
+
 ### VHDL Bomberman Game
 [![Bomberman Video](bomberman_video.PNG)](https://www.youtube.com/watch?v=XN66qqCFIZs "Bomberman Video")
-Full implementation of RGBHV, game logic, touchscreen controller and sprites in VHDL. Touchscreen SPI FSM implemented in [PicoBlaze](https://www.xilinx.com/products/intellectual-property/picoblaze.html) assembly. See the above video for a demo and the [GitHub repository](https://github.com/jsl2/bomberman-vhdl/)
+Full implementation of RGBHV, game logic, touchscreen controller and sprites in VHDL deployed on the FPGA of a Zybo Zynq-7000 SoC. Touchscreen SPI FSM implemented in [PicoBlaze](https://www.xilinx.com/products/intellectual-property/picoblaze.html) assembly. See the above video for a demo and the [GitHub repository](https://github.com/jsl2/bomberman-vhdl/)
+
 ### Bachelor Thesis - Connected Health
 - Raspberry Pi records data from connected **Bluetooth** sensors
 - Patients are identified using an **RFID** scanner
