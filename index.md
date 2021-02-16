@@ -18,7 +18,7 @@ Full implementation of RGBHV, game logic, touchscreen controller and sprites in 
 (click to see demo on YouTube)
 [![Testing](yt-demo.png)](https://youtu.be/KNPxM7up9dE)
 
-Group project with Scrum. I was tasked with writing the bluetooth drivers to run  for the connected devices (blood pressure monitor and smart scales) in Python. Implementation of required parts of the Health Device Profie (HDP) from specifications, see the [GitHub repository](https://github.com/jsl2/ee5_release)
+Group project with Scrum. I was tasked with writing the bluetooth drivers for the connected devices (blood pressure monitor and smart scales) in Python. Implementation of required parts of the Health Device Profie (HDP) from specifications, see the [GitHub repository](https://github.com/jsl2/ee5_release)
 
 ### Software Defined Radio
 OFDM implementation on [NI USRP](https://www.ni.com/nl-be/shop/hardware/products/usrp-software-defined-radio-device.html) in LabVIEW
