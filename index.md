@@ -6,7 +6,7 @@ Digital radio for audio streaming on ZedBoard Zynq-7000 with AD-FMCOMMS1-EBZ eva
 ![Image](IQ_UI.PNG)
 ### VHDL Bomberman Game
 [![Bomberman Video](bomberman_video.PNG)](https://www.youtube.com/watch?v=XN66qqCFIZs "Bomberman Video")
-Full implementation of RGBHV, game logic, touchscreen controller and sprites in VHDL. Touchscreen SPI FSM implemented in [PicoBlaze](https://www.xilinx.com/products/intellectual-property/picoblaze.html) assembly. See the above video for a demo and the [GitHub repository](https://github.com/jsl2/bomberman/)
+Full implementation of RGBHV, game logic, touchscreen controller and sprites in VHDL. Touchscreen SPI FSM implemented in [PicoBlaze](https://www.xilinx.com/products/intellectual-property/picoblaze.html) assembly. See the above video for a demo and the [GitHub repository](https://github.com/jsl2/bomberman-vhdl/)
 ### Bachelor Thesis - Connected Health
 - Raspberry Pi records data from connected **Bluetooth** sensors
 - Patients are identified using an **RFID** scanner
@@ -23,7 +23,7 @@ OFDM implementation on [NI USRP](https://www.ni.com/nl-be/shop/hardware/products
 Developed Viterbi coder/decoder DLL for LabVIEW for final project.
 
 ### OFDM Audio Modem
-Transmit bitmap image over acoustic channel with OFDM in MATLAB. See the [GitHub repository](https://github.com/jsl2/OFDM_modem)
+Transmit bitmap image over acoustic channel with OFDM in MATLAB. See the [GitHub repository](https://github.com/jsl2/OFDM-modem)
 
 ### Encryption and decryption for realtime audio
 Embedded systems project for encryption and decryption of streaming audio on Zybo Zynq-7000 SoC.
@@ -34,12 +34,12 @@ Embedded systems project for encryption and decryption of streaming audio on Zyb
 
 
 ### Android App development
-Android app for contact sharing with QR-codes. Project for OOP Java course. See the [GitHub repository](https://github.com/jsl2/ee5_release)
+Android app for contact sharing with QR-codes. Project for OOP Java course. See the [GitHub repository](https://github.com/eoleinik/VIA-Virtual-Identity-Aggregator)
 
 ## Extra-Curricular Projects
 
 ### Hackathon News4future Winner
-Developed a voice-controlled interface on top of the [twipe](https://www.twipemobile.com/comic-news-for-kids-and-new-speak-win-take-home-the-media-innovation-price/) API, finding and presenting news in a neat and accessible manner.
+Developed a voice-controlled interface on top of the [Twipe](https://www.twipemobile.com/comic-news-for-kids-and-new-speak-win-take-home-the-media-innovation-price/) API, finding and presenting news in a neat and accessible manner.
 
 ### HackBordeaux Winner
 Built a wireless electronic glove used as a virtual mouse. Interact with 3D CAD objects, play shooters, etc.
