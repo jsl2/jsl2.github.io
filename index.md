@@ -14,7 +14,7 @@ Full implementation of RGBHV, game logic, touchscreen controller and sprites in 
 - Health stats are displayed on a configurable dashboard, written in **Angular**
 
 (click to see demo on YouTube)
-[![Testing](screenshots/yt-demo.png)](https://youtu.be/KNPxM7up9dE)
+[![Testing](yt-demo.png)](https://youtu.be/KNPxM7up9dE)
 
 Group project with Scrum. I was tasked with writing the bluetooth drivers to run  for the connected devices (blood pressure monitor and smart scales) in Python. Implementation of required parts of the Health Device Profie (HDP) from specifications, see the [GitHub repository](https://github.com/jsl2/ee5_release)
 
