@@ -7,7 +7,7 @@ Digital radio for audio streaming on ZedBoard Zynq-7000 with AD-FMCOMMS1-EBZ eva
 
 ### VHDL Bomberman Game
 [![Bomberman Video](bomberman_video.PNG)](https://www.youtube.com/watch?v=XN66qqCFIZs "Bomberman Video")
-Full implementation of RGBHV, game logic, touchscreen controller and animated sprites in VHDL deployed on the FPGA of a Zybo Zynq-7000 SoC. Touchscreen SPI FSM implemented in [PicoBlaze](https://www.xilinx.com/products/intellectual-property/picoblaze.html) assembly. See the above video for a demo and the [GitHub repository](https://github.com/jsl2/bomberman-vhdl/)
+Full implementation of RGBHV, game logic, touchscreen controller and animated sprites in VHDL deployed on the FPGA of a Zybo Zynq-7000 SoC. Touchscreen SPI FSM implemented in [PicoBlaze](https://www.xilinx.com/products/intellectual-property/picoblaze.html) assembly. See the above video for a demo.
 
 ### Bachelor Thesis - Connected Health
 - Raspberry Pi records data from connected **Bluetooth** sensors
@@ -22,15 +22,15 @@ Group project with Scrum. I was tasked with writing the bluetooth drivers for th
 
 ### Software Defined Radio
 OFDM implementation on [NI USRP](https://www.ni.com/nl-be/shop/hardware/products/usrp-software-defined-radio-device.html) in LabVIEW
-Developed Viterbi coder/decoder DLL for LabVIEW for final project.
+Developed [Viterbi coder/decoder](https://gist.github.com/jsl2/2dd6f63bbff7a41a6a59a8d1a6d827a0) DLL for LabVIEW for final project.
 
 ### OFDM Audio Modem
-Transmit bitmap image over acoustic channel with OFDM in MATLAB. See the [GitHub repository](https://github.com/jsl2/OFDM-modem)
+Transmit bitmap image over acoustic channel with OFDM in MATLAB.
 
 ### Encryption and decryption for realtime audio
 Embedded systems project for encryption and decryption of streaming audio on Zybo Zynq-7000 SoC.
 - Development of multiprecision arithmetic library in C
-- ARM assembly optimizations for multiprecision arithmetic
+- ARM [assembly optimizations](https://gist.github.com/jsl2/a69d000949e2c08266f2344472218e10) for multiprecision arithmetic
 - Implementation of Station-to-Station protocol for key agreement
 - AES with Galios/Counter Mode (AES-GCM) for authenticated encryption
 
